@@ -102,12 +102,12 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "254728782591"
+      "value": "2349023371564"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
       "required" :true,
-      "value": ""
+      "value": "Gifted~H4sIAAAAAAAAA5VU3ZKiRhR+lVTfYu3wL1I1VSs/IigqIo4zqVy00GCDAjYNglvzLLnKM+S18ggpdCa7lU02E66aQ3PO933nO+cLyAtcoRnqgPoFlAQ3kKL+SLsSARVodRwjAgYgghQCFXh2PDwz1yqzRa0JYDW+7PXc9VtcInHOXx/qbUvHdBIgLngErwNQ1vsjDn+QMDRsbpEqlGeX6CwnuaQ/68widqihSHbTOs3UKg4P/iyeso/gtc8IMcF5YpYHdEIEHmeoW0FMPgbfnIzO/Hxz5ZTWPzhWLW86lo9jbjuHnJM05XTS2utL45Ag+Rj8S7rlG0ipy2nsk+4xkj72knS+oPx6VlhMtXraha3hHqtDdYdf4SRHkR2hnGLafVh3NFYkae0oUYDd+VPjs4kcuIWvSXttY7aHNjt7BpM9M3WQfQx4Fkgd1yznpyzOnkNvV4tmEY2GpsOuww31io00nc7l0i0n3rfAV+TdK9n/0T2ZFLxwLbpnrmm8ubxZMwE+NfbzNrMse+rOOboxlKrGM8v8GHyNSha7yWN8tJhZymwfZlbrl7qydlK0k2Ed5nGRzhb7p4P7FT6kNfkRyuXDaoOuL09EeYnFke6mxDUPdqzsMFcZuPDMs2WKx8XO4FErSOE0cbP4jF+WDcusdbRFJN3Z5wMqkmQXLyDDVPI+1JPHG6MMdXYEVO51AAhKcEUJpLjI+5gsDACMGh+FBNGbukDuTvLmkK4oLEgXnq8idkmit6ejOfLqZPoi7iLoibLGdMUjGICSFCGqKhRNcUUL0rmoqmCCKqD+fGtUz5mgU0GRgyOgAl4QRywvCENOksXP1afLAdIKluWnHFEwADEpTi4CKiU1GoDbH9pY4oeywpojntM53dBllud0YcIr8pAbi1JP8XSvusEnVFF4KoHKDSVREVlZkV9/GYActfTun561wA1AjElFg7wujwWM3s31/hGGYVHn1O/yUO8PiAD1mzCiFOdJ1VOrc0jCA26Q3vMAagyPFfpLaERQ9M7lbXnoRdT33xgGz0v5iQU99j7R9+Ko8vfyHG/XJHEksbzCiSwrciNV/tyHByCHfSrg4gj99Mevv/3eC/MGua8QIQrxsQIq0Be6zi5Zy1yuFLHyLGvsJmM9GYOvFN8te/cErxvDmBHFJN05kldmk2GcTtnRREwvl9FsX7nTxWE+F5lYv3ni70mACgiPHaXRZ0uH1yz3RIyJPTGDeLPwsokhZlEmmEKd+qv9i5G9HM6rTUqdPZbMdBfa84lk5AieCLNR/JRSFu2Fa4CGWu/vAYhQg0P0bTFOsyvLkVgPW2i8atYnPFuQxajxRyNcGlobH5Z6MjST9TF2hFFKyINmN4Q/brfDlb8Y0o0frUWf309a69ruLlLATlptfB+m2zAf35YofvM5vr3GGN120lsf/rOZd+C959jXwTc53rbcv62fKEkY4aFe2jbXoWD2oiFBbEerNbIVd+WfhoZ2ffY7ZpVfzuC1N395hDQuyAmoAOYRKW5mIUXdm9jO4+IHxXTNtjXvzvwIKzr+Ohj/NGvC/daKFOUUVgegAiFZBU7Wu7wbl6VPIX2fMzDun7nugtc/AbiYWFgKCAAA"
   
     },
     "OPENAI_API_KEY": {
